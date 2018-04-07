@@ -1,0 +1,9 @@
+F:\Applications\WorkSpace\Visual Studio\XO\XO\bin\Release\XO.exe.config
+F:\Applications\WorkSpace\Visual Studio\XO\XO\bin\Release\XO.exe
+F:\Applications\WorkSpace\Visual Studio\XO\XO\bin\Release\XO.pdb
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.csprojResolveAssemblyReference.cache
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.Form1.resources
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.Properties.Resources.resources
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.csproj.GenerateResource.Cache
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.exe
+F:\Applications\WorkSpace\Visual Studio\XO\XO\obj\Release\XO.pdb
